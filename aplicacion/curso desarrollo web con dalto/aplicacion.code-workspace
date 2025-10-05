@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\..\\..\\Users\\Gustavo\\Desktop\\practicas"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "aplicacion"
+	}
+}

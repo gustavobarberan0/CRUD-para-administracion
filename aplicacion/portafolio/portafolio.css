@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #000;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  header nav a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 20px;
+  }
+  
+  main {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  section {
+    margin-bottom: 40px;
+  }
+  
+  section h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  section#about p {
+    font-size: 18px;
+    line-height: 1.5;
+  }
+  
+  section#projects ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  section#projects li {
+    margin-bottom: 10px;
+  }
+  
+  section#contact form label {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 18px;
+  }
+  
+  section#contact form input[type="text"],
+  section
+  
